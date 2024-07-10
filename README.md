@@ -1,3 +1,3 @@
 # algorithm-interview
 
-记录一下遇到的算法题
+记录一下遇到的算法题 (NOT ONLY)
