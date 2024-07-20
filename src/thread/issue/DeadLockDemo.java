@@ -39,6 +39,7 @@ public class DeadLockDemo {
         }
     }
 
+    // https://www.jeremysong.cn/cn/jvm-gc-dump
     // `jps` get pid
     // `jstack -l <pid>` print thread information
     //
